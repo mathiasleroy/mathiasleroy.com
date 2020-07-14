@@ -1,23 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
+        
         <loc>https://mathiasleroy.com/</loc>
-        <lastmod>2019-05-06T10:11:04.168Z</lastmod>
+    
+        
+        <lastmod>2020-07-14T18:04:13.060Z</lastmod>
+    
     </url>
     <url>
+        
         <loc>https://mathiasleroy.com/brussels-restaurants-map/</loc>
-        <lastmod>2019-05-06T10:10:59.047Z</lastmod>
+    
+        
+        <lastmod>2020-07-14T18:04:09.684Z</lastmod>
+    
     </url>
     <url>
+        
         <loc>https://mathiasleroy.com/georeferenced-dynamic-kriging/</loc>
-        <lastmod>2019-05-06T10:10:59.047Z</lastmod>
+    
+        
+        <lastmod>2020-07-14T18:04:09.720Z</lastmod>
+    
     </url>
     <url>
-        <loc>https://mathiasleroy.com/movie-machine-learning/</loc>
-        <lastmod>2018-04-03T14:23:39.000Z</lastmod>
-    </url>
-    <url>
+        
         <loc>https://mathiasleroy.com/imdb-ratings-explorer/</loc>
-        <lastmod>2019-05-06T10:10:59.047Z</lastmod>
+    
+        
+        <lastmod>2020-07-14T18:04:09.720Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://mathiasleroy.com/movie-machine-learning/</loc>
+    
+        
+        <lastmod>2020-02-25T07:37:45.878Z</lastmod>
+    
     </url>
 </urlset>
